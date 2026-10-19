@@ -1,0 +1,11 @@
+## Interface: 120105
+
+## Title: Decor Dye Indicator
+
+## Notes: Displays a paintbrush icon on the housing decor preview window if the item is dyeable.
+
+## Author: Aurora
+
+## Version: 1.0.0
+
+Core.lua
