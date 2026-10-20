@@ -1,3 +1,4 @@
+## IconTexture: Interface\AddOns\DecorDyeIndicator\Media\paintbrush.png
 ## Interface: 120105
 
 ## Title: Decor Dye Indicator
